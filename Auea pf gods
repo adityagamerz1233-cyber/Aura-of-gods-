@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Aura of the Gods</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: url('https://www.example.com/images/god-background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            color: white;
+        }
+        header {
+            text-align: center;
+            padding: 100px 0;
+            background: rgba(0, 0, 0, 0.7);
+        }
+        header h1 {
+            font-size: 4em;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
+        }
+        header p {
+            font-size: 1.5em;
+            font-weight: lighter;
+        }
+        .content {
+            padding: 50px;
+            text-align: center;
+        }
+        .content h2 {
+            font-size: 2.5em;
+            margin-bottom: 30px;
+        }
+        .content img {
+            width: 80%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .footer {
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .footer p {
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .button {
+            background-color: #c5a32d;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #b0911f;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Aura of the Gods</h1>
+        <p>Unleash the divine power of ancient gods</p>
+    </header>
+
+    <div class="content">
+        <h2>Power of the Gods</h2>
+        <p>Discover the divine energy and untold stories of the gods that rule the heavens and the earth.</p>
+        <img src="https://www.example.com/images/zeus-thunder.jpg" alt="Zeus Power">
+        <p>Feel the energy of Zeus, the god of thunder and the ruler of Mount Olympus. His power shapes the world as we know it.</p>
+        <img src="https://www.example.com/images/athena-vision.jpg" alt="Athena Wisdom">
+        <p>Experience Athena's wisdom, the goddess of war and strategy, whose intellect guides civilizations.</p>
+        <a href="https://www.example.com/shop" class="button">Unlock Divine Powers</a>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2026 Aura of the Gods. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
