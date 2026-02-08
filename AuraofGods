@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aura of Gods</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Georgia', serif;
+            background: radial-gradient(circle at top, #1b0033, #000);
+            color: #f5e9ff;
+            text-align: center;
+        }
+
+        header {
+            padding: 60px 20px;
+            background: linear-gradient(180deg, #3a0a6a, #12001f);
+        }
+
+        h1 {
+            font-size: 3em;
+            letter-spacing: 3px;
+            text-shadow: 0 0 15px #b56cff;
+        }
+
+        p {
+            max-width: 700px;
+            margin: auto;
+            line-height: 1.7;
+            font-size: 1.1em;
+        }
+
+        section {
+            padding: 50px 20px;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.07);
+            margin: 20px auto;
+            padding: 25px;
+            max-width: 500px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(181,108,255,0.3);
+        }
+
+        footer {
+            padding: 20px;
+            font-size: 0.9em;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Aura of Gods</h1>
+    <p>Where divine energy, ancient myths, and celestial power unite</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>🌌 Divine Energy</h2>
+        <p>The aura of gods represents cosmic force, wisdom, and balance that flows beyond time and space.</p>
+    </div>
+
+    <div class="card">
+        <h2>⚡ Mythic Power</h2>
+        <p>Each god carries a unique aura — fire, light, storm, shadow — shaping destiny itself.</p>
+    </div>
+
+    <div class="card">
+        <h2>🕊️ Sacred Purpose</h2>
+        <p>This realm honors ancient legends and spiritual strength that guides humanity.</p>
+    </div>
+</section>
+
+<footer>
+    © 2026 Aura of Gods | Designed with divine inspiration
+</footer>
+
+</body>
+</html>
